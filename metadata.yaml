@@ -1,0 +1,34 @@
+_repo: Short-Story-Classics--American--Vol.-2_16556
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Patten, William
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '1118'
+    url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_issued: '2005-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16556'
+language: en
+publication_note: P. F. Collier & Son, 1905
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+tableOfContents: The Brigade Commander, by J. W. Deforest -- Who Was She?, by Bayard
+  Taylor -- Mademoiselle Olympe Zabriski, by Thomas Bailey Aldrich -- Brother Sebastian's
+  Friendship, by Harold Frederic -- A Good-For-Nothing, by Hjalmar Hjorth Boyesen
+  -- The Idyl Of Red Gulch, by Bret Harte -- Crutch, The Page, by George Alfred Townsend
+  ("Gath") -- In Each Other's Shoes, by George Parsons Lathrop -- The Denver Express,
+  by A. A. Hayes -- Jaune D'antimoine, by Thomas Allibone Janvier -- Ole 'Stracted,
+  by Thomas Nelson Page -- Our Consul At Carlsruhe, by F. J. Stimson ("J. S. Of Dale").
+title: Short Story Classics (American) Vol. 2
+url: http://www.gutenberg.org/ebooks/16556
